@@ -1,0 +1,75 @@
+2020-12-19 22:31:06,167  test_e2e  INFO: Get all the product details
+2020-12-19 22:31:06,280  test_e2e  INFO:  Print the product information
+2020-12-19 22:31:11,655  test_e2e  INFO: get the country details
+2020-12-19 22:32:47,414  test_e2e  INFO: Get all the product details
+2020-12-19 22:32:47,446  test_e2e  INFO: iphone X
+2020-12-19 22:32:47,460  test_e2e  INFO: Samsung Note 8
+2020-12-19 22:32:47,473  test_e2e  INFO: Nokia Edge
+2020-12-19 22:32:47,484  test_e2e  INFO: Blackberry
+2020-12-19 22:32:47,552  test_e2e  INFO:  Print the product information
+2020-12-19 22:32:52,909  test_e2e  INFO: get the country details
+2020-12-19 22:33:46,045  test_e2e  INFO: Get all the product details
+2020-12-19 22:33:46,071  test_e2e  INFO: iphone X
+2020-12-19 22:33:46,084  test_e2e  INFO: Samsung Note 8
+2020-12-19 22:33:46,097  test_e2e  INFO: Nokia Edge
+2020-12-19 22:33:46,106  test_e2e  INFO: Blackberry
+2020-12-19 22:33:46,106  test_e2e  INFO:  Print the product information
+2020-12-19 22:33:46,354  test_e2e  INFO: get the country details
+2020-12-19 22:38:05,829  test_e2e  INFO: Get all the product details
+2020-12-19 22:38:05,872  test_e2e  INFO: iphone X
+2020-12-19 22:38:05,885  test_e2e  INFO: Samsung Note 8
+2020-12-19 22:38:05,897  test_e2e  INFO: Nokia Edge
+2020-12-19 22:38:05,903  test_e2e  INFO: Blackberry
+2020-12-19 22:38:05,903  test_e2e  INFO:  Print the product information
+2020-12-19 22:38:06,246  test_e2e  INFO: get the country details
+2020-12-19 22:39:17,298  test_Homepage  INFO: Get the first nameBasava
+2020-12-19 22:39:17,656  test_Homepage  INFO: To know the GenderMale
+2020-12-19 22:39:17,932  test_Homepage  INFO: Get the first nameJadeyappa
+2020-12-19 22:39:17,932  test_Homepage  INFO: Get the first nameJadeyappa
+2020-12-19 22:39:18,470  test_Homepage  INFO: To know the GenderMale
+2020-12-19 22:39:18,470  test_Homepage  INFO: To know the GenderMale
+2020-12-20 00:50:09,059  test_Homepage  INFO: Get the first nameBasava
+2020-12-20 00:50:09,440  test_Homepage  INFO: To know the GenderMale
+2020-12-20 00:50:09,888  test_Homepage  INFO: Get the first nameJadeyappa
+2020-12-20 00:50:09,888  test_Homepage  INFO: Get the first nameJadeyappa
+2020-12-20 00:50:10,224  test_Homepage  INFO: To know the GenderMale
+2020-12-20 00:50:10,224  test_Homepage  INFO: To know the GenderMale
+2020-12-20 00:50:17,470  test_e2e  INFO: Get all the product details
+2020-12-20 00:50:17,512  test_e2e  INFO: iphone X
+2020-12-20 00:50:17,528  test_e2e  INFO: Samsung Note 8
+2020-12-20 00:50:17,536  test_e2e  INFO: Nokia Edge
+2020-12-20 00:50:17,554  test_e2e  INFO: Blackberry
+2020-12-20 00:50:17,554  test_e2e  INFO:  Print the product information
+2020-12-20 00:50:17,874  test_e2e  INFO: get the country details
+2020-12-20 09:35:35,341  test_Homepage  INFO: Get the first nameBasava
+2020-12-20 09:35:35,757  test_Homepage  INFO: To know the GenderMale
+2020-12-20 09:35:36,301  test_Homepage  INFO: Get the first nameJadeyappa
+2020-12-20 09:35:36,301  test_Homepage  INFO: Get the first nameJadeyappa
+2020-12-20 09:35:36,669  test_Homepage  INFO: To know the GenderMale
+2020-12-20 09:35:36,669  test_Homepage  INFO: To know the GenderMale
+2020-12-20 09:37:05,121  test_Homepage  INFO: Get the first nameBasava
+2020-12-20 09:37:05,722  test_Homepage  INFO: To know the GenderMale
+2020-12-20 09:37:06,938  test_Homepage  INFO: Get the first nameJadeyappa
+2020-12-20 09:37:06,938  test_Homepage  INFO: Get the first nameJadeyappa
+2020-12-20 09:37:07,298  test_Homepage  INFO: To know the GenderMale
+2020-12-20 09:37:07,298  test_Homepage  INFO: To know the GenderMale
+2020-12-20 09:37:20,856  test_e2e  INFO: Get all the product details
+2020-12-20 09:37:20,928  test_e2e  INFO: iphone X
+2020-12-20 09:37:20,936  test_e2e  INFO: Samsung Note 8
+2020-12-20 09:37:20,944  test_e2e  INFO: Nokia Edge
+2020-12-20 09:37:20,952  test_e2e  INFO: Blackberry
+2020-12-20 09:37:20,952  test_e2e  INFO:  Print the product information
+2020-12-20 09:37:21,928  test_e2e  INFO: get the country details
+2020-12-20 10:32:36,315  test_Homepage  INFO: Get the first nameBasava
+2020-12-20 10:32:37,021  test_Homepage  INFO: Get the first nameJadeyappa
+2020-12-20 10:32:37,021  test_Homepage  INFO: Get the first nameJadeyappa
+2020-12-20 10:33:27,146  test_Homepage  INFO: Get the first nameBasava
+2020-12-20 10:33:27,493  test_Homepage  INFO: To know the GenderMale
+2020-12-20 10:33:27,934  test_Homepage  INFO: Get the first nameJadeyappa
+2020-12-20 10:33:27,934  test_Homepage  INFO: Get the first nameJadeyappa
+2020-12-20 10:33:28,226  test_Homepage  INFO: To know the GenderMale
+2020-12-20 10:33:28,226  test_Homepage  INFO: To know the GenderMale
+2020-12-20 11:00:44,859  test_Homepage  INFO: Get the first nameBasavanagouda
+2020-12-20 11:00:45,207  test_Homepage  INFO: To know the GenderMale
+2020-12-20 11:01:34,105  test_Homepage  INFO: Get the first nameBasavanagouda
+2020-12-20 11:01:34,441  test_Homepage  INFO: To know the GenderMale
